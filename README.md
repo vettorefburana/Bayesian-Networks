@@ -11,3 +11,8 @@ The code in bayesian_networks.Rmd performs the following tasks:
 5) Perform inference using a naive bayesian and a tree-augmented naive bayesian classifier
 
 The file bayesian_networks.html contains an explanation of the tasks performed and of the results obtained. 
+
+References: 
+
+Højsgaard, S., Edwards, D., & Lauritzen, S. (2012). Graphical models with R. Springer Science & Business Media.
+Scutari, M., & Denis, J. B. (2014). Bayesian networks: with examples in R. CRC press.
