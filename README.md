@@ -7,5 +7,5 @@ The code performs the following tasks:
 1) Describe the dataset 
 2) Identify a blacklist
 3) Learn the optimal structure of the bayesian network using score-based, constraint-based and hybrid methods, as well as model averaging
-4) Perform inference using the optimal bayesian network 
+4) Perform inference using bayesian networks
 5) Perform inference using a naive bayesian and a tree-augmented naive bayesian classifier
