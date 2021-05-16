@@ -1,6 +1,6 @@
 # Bayesian-Networks
-## The code contained in this repository performs inference on coronary artery desease data using bayesian networks
 
+The code contained in this repository performs inference on coronary artery desease data using bayesian networks
 
 The code performs the following tasks: 
 
