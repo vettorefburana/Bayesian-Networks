@@ -5,7 +5,7 @@ The code contained in this repository performs inference on coronary artery dese
 The code performs the following tasks: 
 
 1) Describe the dataset 
-2) Identify a black list
-3) Learn the optimal structure of the bayesian network using different methods
-4) Perform inference using the bayesian network 
-5) Perform inference using classification models 
+2) Identify a blacklist
+3) Learn the optimal structure of the bayesian network using score-based, constraint-based and hybrid methods, as well as model averaging
+4) Perform inference using the optimal bayesian network 
+5) Perform inference using a naive bayesian and a tree-augmented naive bayesian classifier
