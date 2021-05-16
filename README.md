@@ -2,7 +2,7 @@
 
 The code contained in this repository performs inference on coronary artery desease data using bayesian networks
 
-The code in bayesian_networks.R performs the following tasks: 
+The code in bayesian_networks.Rmd performs the following tasks: 
 
 1) Describe the dataset 
 2) Identify a blacklist
