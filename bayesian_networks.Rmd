@@ -1,7 +1,6 @@
 ---
 title: "Bayesian Networks"
 author: "Verena Brufatto"
-date: \today
 output:
   html_document: default
   pdf_document: default
@@ -591,9 +590,10 @@ However, the two nodes are not d-separated in the orignal graph, since there is 
 bnlearn::dsep(bn_hc, x = "SuffHeartF", y = "CAD")
 
 ```
+
 ```{r, eval=T, echo=T, include=T}
 
-bnlearn::path(bn_hc, from = "SuffHeartF", to = "CAD")
+path(bn_hc, from = "SuffHeartF", to = "CAD")
 
 ```
 
