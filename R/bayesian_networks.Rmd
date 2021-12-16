@@ -11,10 +11,10 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 
 .libPaths(new = "/packages")
-# BiocManager::install('gRain')
-# BiocManager::install("gRbase")
-# BiocManager::install("igraph")
-# BiocManager::install("pcalg")
+BiocManager::install('gRain')
+BiocManager::install("gRbase")
+BiocManager::install("igraph")
+BiocManager::install("pcalg")
 
 library("gRain")
 library("gRbase")
